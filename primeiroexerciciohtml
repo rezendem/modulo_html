@@ -11,7 +11,7 @@
     <form>
         <label for="nome"> <b>Nome</b> </label> <input id="name" type="text" /> <br />
         <label for="email"> <b>E-mail</b> </label> <input id="email" type="email" /> <br />
-        <label for="senha"> <b>Senha</b> </label> <input id="password" type="password" /> <br />
+        <label for="password"> <b>Senha</b> </label> <input id="password" type="password" /> <br />
         <br />
         <button type="submit" >
             Cadastrar
